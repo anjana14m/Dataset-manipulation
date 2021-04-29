@@ -1,2 +1,2 @@
 # Dataset-manipulation
-Python for simple dataset manipulation using Flights dataset
+This is a small work on how we can access the details in a dataset using Python.
